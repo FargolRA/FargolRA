@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FargolRA
-- 👀 I’m interested in studing image processing, human movement, machine learning and brain injury .
+- 👀 I’m interested in studying image processing, neuroscience, and utilizing machine learning algorithms for health-related purposes.
 - 🌱 I’m currently learning machine learning and Python.
-- 💞️ I’m looking to collaborate on image processing, human performance improvement projects. 
+- 💞️ I’m looking to collaborate on image processing, and human performance improvement projects. 
 - 📫 How to reach me fargol.araghi@gmail.com OR fargor@uw.edu
 
 <!---
